@@ -1,0 +1,66 @@
+{
+    "1": {
+      "question": "The Call to Adventure",
+      "subquestions": [
+        "Describe a specific moment or event that pushed you out of your comfort zone.",
+        "What was the challenge or opportunity presented in this moment?",
+        "How did you initially respond to this call to adventure?"
+      ]
+    },
+    "2": {
+      "question": "The Refusal of the Call",
+      "subquestions": [
+        "Did you ever doubt your ability to face this challenge or opportunity?",
+        "Share your initial reservations or fears."
+      ]
+    },
+    "3": {
+      "question": "Crossing the Threshold",
+      "subquestions": [
+        "Explain the actions you took to step into this new phase of your journey.",
+        "What sacrifices or changes did you make to pursue this path?",
+        "Describe any mentors, role models, or guidance that helped you during this transition."
+      ]
+    },
+    "4": {
+      "question": "The Road of Trials",
+      "subquestions": [
+        "Discuss the difficulties, obstacles, or setbacks you encountered.",
+        "How did you navigate these challenges?",
+        "Share examples of resilience, determination, or adaptability you displayed."
+      ]
+    },
+    "5": {
+      "question": "Meeting with the Mentor",
+      "subquestions": [
+        "Who played a significant role in guiding you through this journey?",
+        "What wisdom, advice, or support did they provide?",
+        "How did their influence impact your development."
+      ]
+    },
+    "6": {
+      "question": "The Ultimate Boon",
+      "subquestions": [
+        "Describe the moment of success, achievement, or self-discovery.",
+        "What did you gain from this experience?",
+        "How did it transform you or your perspective on life."
+      ]
+    },
+    "7": {
+      "question": "The Return",
+      "subquestions": [
+        "Reflect on how you've changed or grown since the beginning of your journey.",
+        "How will you use your newfound knowledge or abilities to benefit others?",
+        "Share your aspirations for the future and your commitment to giving back."
+      ]
+    },
+    "8": {
+      "question": "The Elixir",
+      "subquestions": [
+        "Explain how this journey has left you with a valuable life lesson.",
+        "How will you apply this lesson to your college experience and beyond?",
+        "What do you hope to contribute to your college community?"
+      ]
+    }
+  }
+  
